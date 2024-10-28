@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+Iam currently working on some basic high school projects.
+Iam learning HTML,CSS,C and Javascript.
+Iam looking to collaborate on few easy projects.
+Iam looking for help with suggesting me better codes.
+To reach to me carmenN0844A@gmail.com.
 <!--
 **CarmenN0844A/CarmenN0844A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
